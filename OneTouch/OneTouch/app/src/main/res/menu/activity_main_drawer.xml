@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/menu_livingroom"
+            android:icon="@drawable/lamp_livingroom_off"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/menu_bedroom"
+            android:icon="@drawable/lamp_bedroom_off"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/menu_kitchen"
+            android:icon="@drawable/lamp_kitchen_off"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/menu_logout"
+            android:title="@string/menu_logout" />
+
+</menu>
